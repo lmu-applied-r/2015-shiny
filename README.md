@@ -7,8 +7,8 @@ Der zweite Vortrag der neugegründeten Use R Group in München - Applied R.
 
 Zum Talk sind hier folgende Dokumente vorhanden:
 
-* slides
-* R
+* slides.pdf
+* R/
 
     * server.R
     * ui.R
