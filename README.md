@@ -5,14 +5,13 @@
 
 Der zweite Vortrag der neugegründeten Use R Group in München - Applied R.
 
-Zu dem ersten Talk sind hier folgende Dokumente vorhanden (Rmd und html):
+Zum Talk sind hier folgende Dokumente vorhanden:
 
-* R
+* slides.pdf
+* R/
 
     * server.R
     * ui.R
-
-* slides
 
 
 Viel Spaß!
